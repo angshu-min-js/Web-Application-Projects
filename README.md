@@ -1,8 +1,8 @@
 # Projects
 
-1. 1.Tic Tac Toe Game (FrontEnd): https://goo.gl/26Yly1 
-2. Calculator (FrontEnd): https://goo.gl/CGOqqn 
-3. Java Map Application: https://goo.gl/EzfEBX 
-4. Java Text Editor: https://goo.gl/nktVhv 
-5. Meetup Web App: https://goo.gl/8ef0ds 
-6. Portfolio Web App: https://goo.gl/fXpA8B
+1. Tic Tac Toe Game (FrontEnd): https://codepen.io/AngshumanGupta/pen/KproKQ
+2. Calculator (FrontEnd): https://codepen.io/AngshumanGupta/pen/qdJzQa 
+3. Java Map Application: https://github.com/angshu-min-js/RoutePlanningApplication
+4. Java Text Editor: https://github.com/angshu-min-js/TextEditor
+5. Meetup Web App: https://angshu-meetupapp.herokuapp.com/ 
+6. Portfolio Web App: https://angshu-portfolio.herokuapp.com/
